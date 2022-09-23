@@ -20,7 +20,7 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
 
 ## <a href="https://ritikpanta.github.io/30DaysOfCSS/day2/" target="_blank">DAY 2</a>
 Today It was really interesting to learn about the display properties , transistion , hover effect , animation and such in CSS. <br>
-Hoping to learn more and explore more. About Day 2 more in <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/day2">here</a>
+Hoping to learn more and explore more.  About Day 2 more in <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/day2">here</a>
 
   <br>
  <br>
