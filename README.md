@@ -25,5 +25,5 @@ Hoping to learn more and explore more.  About Day 2 more in <a href="https://git
   <br>
  <br>
 <img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day2/Day2.gif?raw=true" width=500px; height=500px;>
-##
+
 
