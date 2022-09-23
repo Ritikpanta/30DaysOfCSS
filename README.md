@@ -12,7 +12,7 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
 <a href="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Screen%20Shot%202022-09-22%20at%209.51.20%20PM.png?raw=true"></a>
  <br>
  <br>
-<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" style="width=50px; height=50px;">
+<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" width=50px; height=50px;>
 ##
  
 
