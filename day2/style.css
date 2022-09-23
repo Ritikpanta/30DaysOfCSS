@@ -45,6 +45,10 @@ button:hover {
     transform: translate(145px,200px);
 }
 
+.logos:hover {
+    color:white;
+}
+
 @keyframes pulse {
     0% {
         box-shadow: 1px 0 0 10px rgba(27, 27, 28, 0.9);
