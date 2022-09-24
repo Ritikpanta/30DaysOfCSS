@@ -26,7 +26,7 @@ Hoping to learn more and explore more.  About Day 2 more in <a href="https://git
 <br>
 
 <img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day2/Day2.gif?raw=true" width=300px; height=300px;>
-<br>
+
 <ul>
  <li><a href="https://codepen.io/ritikpanta/pen/rNvGZeZ">Code</a></li>
  <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6978755506483929088/">Linkedin Post</a></li>
