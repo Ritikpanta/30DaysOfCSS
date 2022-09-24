@@ -14,6 +14,12 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
  <br>
  <br>
 <img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" width=300px; height=300px;>
+<br>
+<br>
+<ul>
+ <li><a href="https://codepen.io/ritikpanta/pen/KKRvLdL">Code</a></li>
+ <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6978755506483929088/">Linkedin Post</a></li>
+</ul>
 ##
 
 <br>
