@@ -35,7 +35,7 @@ Hoping to learn more and explore more.  About Day 2 more in <a href="https://git
 <br>
 <ul>
  <li><a href="https://codepen.io/ritikpanta/pen/rNvGZeZ">Code</a></li>
- <li><a href="[https://www.linkedin.com/feed/update/urn:li:activity:6978755506483929088/](https://www.linkedin.com/feed/update/urn:li:activity:6979156210637774848/)">Linkedin Post</a></li>
+ <li><a href="https://www.linkedin.com/feed/update/urn:li:activity:6978755506483929088/">Linkedin Post</a></li>
 </ul>
 
 
