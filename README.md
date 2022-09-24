@@ -1,9 +1,6 @@
 # 30DaysOfCSS
 Challenge to revise , learn and implement :)
 <br>
-### <span style = "color : yellow; font-weight : 550;">Click on the days for preview of my work <3</span>
-<br>
-
 
 ## <a href="https://ritikpanta.github.io/30DaysOfCSS/day1/" target="_blank">DAY 1</a>
 I revised the basics and officially started the challenge of <a href="https://clg.askmitra.com/">ITSNP</a>.
@@ -14,7 +11,6 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
  <br>
  <br>
 <img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" width=300px; height=300px;>
-<br>
 <br>
 <ul>
  <li><a href="https://codepen.io/ritikpanta/pen/KKRvLdL">Code</a></li>
@@ -31,7 +27,6 @@ Hoping to learn more and explore more.  About Day 2 more in <a href="https://git
   <br>
  <br>
 <img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day2/Day2.gif?raw=true" width=300px; height=300px;>
- <br>
 <br>
 <ul>
  <li><a href="https://codepen.io/ritikpanta/pen/rNvGZeZ">Code</a></li>
