@@ -1,7 +1,7 @@
 # 30DaysOfCSS
 Challenge to revise , learn and implement :)
 <br>
-### <span style="color : yellow; font-weight : 550;">Click on the days for preview of my work <3</span>
+### <span color : yellow; font-weight : 550;>Click on the days for preview of my work <3</span>
 <br>
 
 
