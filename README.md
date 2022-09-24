@@ -12,7 +12,7 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
 <a href="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Screen%20Shot%202022-09-22%20at%209.51.20%20PM.png?raw=true"></a>
  <br>
  <br>
-<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" width=500px; height=500px;>
+<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day1/Day1.png?raw=true" width=300px; height=300px;>
 ##
 
 <br>
@@ -24,6 +24,6 @@ Hoping to learn more and explore more.  About Day 2 more in <a href="https://git
 
   <br>
  <br>
-<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day2/Day2.gif?raw=true" width=500px; height=500px;>
+<img src="https://github.com/Ritikpanta/30DaysOfCSS/blob/main/day2/Day2.gif?raw=true" width=300px; height=300px;>
 
 
