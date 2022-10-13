@@ -2,7 +2,7 @@
 Challenge to revise , learn and implement :)
 <br>
 
-## <a href="https://ritikpanta.github.io/30DaysOfCSS/day1/" target="_blank">DAY 1</a>
+## <a href="https://ritikpanta.github.io/30DaysOfCSS/day1/" target="_blank">DAY 1 - Illustration Using CSS</a>
 I revised the basics and officially started the challenge of <a href="https://clg.askmitra.com/">ITSNP</a>.
  <br>
 Hoping to improve myself in this duration.
@@ -20,7 +20,7 @@ About day 1 more <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/da
 <br>
 <br>
 
-## <a href="https://ritikpanta.github.io/30DaysOfCSS/day2/" target="_blank">DAY 2</a>
+## <a href="https://ritikpanta.github.io/30DaysOfCSS/day2/" target="_blank">DAY 2 - Hover & Animation </a>
 Today It was really interesting to learn about the display properties , transistion , hover effect , animation and such in CSS. <br>
 Hoping to learn more and explore more.  About Day 2 more in <a href="https://github.com/Ritikpanta/30DaysOfCSS/tree/main/day2">here</a>
 <br>
