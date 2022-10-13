@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&family=Londrina+Solid&family=Oswald&family=Poppins:wght@600&family=Roboto:wght@500&family=Signika+Negative:wght@500&family=Silkscreen&family=Telex&display=swap');
+*{
+    margin: 0;
+    padding : 0;
+    font-family: 'Signika Negative';
+    color: white;
+}
+
+body{
+    background-color: rgb(18, 16, 16);
+}
+
+section .container {
+    width: 100%;
+    position: relative; 
+    text-align: center;
+    height: 50vw;
+    justify-content: center;
+    margin-top: 23%;
+
+}
+
+
+.container ul li{
+    display: inline;
+    padding : 11px;
+}
+
+li{ 
+    display: inline-block;
+    font-size: 150%;
+    cursor: pointer;
+    transition : 1s;
+}
+
+li:hover {
+    color: rgb(249, 249, 32);
+    font-size: 300%;
+}
+
+a{
+    font-size: 140%;
+    cursor: pointer;
+    padding: 5px;
+    opacity: 70%;
+}
