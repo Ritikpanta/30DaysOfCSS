@@ -30,7 +30,7 @@ li{
     display: inline-block;
     font-size: 150%;
     cursor: pointer;
-    transition : 1s;
+    transition : ease-in-out 0.3s;
 }
 
 li:hover {
